@@ -1,1 +1,5 @@
+Pre-trained weights are too large to upload to GitHub however are available by email if needed. 
+kaggle json also needs to be uploaded for it to work.
 
+Issues with Notebook:
+- Different accuracy values given between model.evalutate and running a confusion matrix through sklearn.
